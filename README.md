@@ -147,6 +147,24 @@ The dataset contains variables related to:
 ---
 
 ## 📁 Project Structure
+
+```text
+Smartphone-Usage-Digital-Addiction-Well-Being-Analytics/
+│
+├── README.md
+├── Dashboard/
+│   └── Smartphone_Addiction_Dashboard.pbix
+│
+├── Dataset/
+│   └── smartphone_addiction_dataset.csv
+│
+├── Screenshots/
+│   ├── dashboard_overview.png
+│   ├── addiction_analysis.png
+│   └── digital_wellbeing.png
+│
+└── Documentation/
+    └── Project_Report.pdf
 Project Type
 Data Analytics | Business Intelligence | Power BI
 Topics
